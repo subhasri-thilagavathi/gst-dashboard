@@ -24,6 +24,6 @@ Built using `pandas`, `streamlit`, and Excel files.
 
 streamlit run gst_dashboard.py
 
- http://localhost:8501
+
 
 
